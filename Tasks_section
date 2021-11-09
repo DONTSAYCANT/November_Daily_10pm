@@ -12,9 +12,102 @@ output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
 
 Task2:
 
-Task3:
+Get two integers from user
 
 int1: 123
 int2: 456
 
-output: 123456579 
+output: 123456579 (concatenation of int1,int2 and addition of two integers) 
+
+Task3:
+
+Collect three strings from user
+String format: (name<space>float)
+
+string1: "ravi 10.30"  
+string2: "meghala 12.19"
+string3: "Gokul 20.20"
+
+split + indexing
+
+10.30 + 12.19 + 20.20 ===> output 42.69
+
+Task4:
+
+Li1 = [2,3,4,5,[45,56,67,78,[111,222,333,[5555,3333,[10000,50000,"python","computer"],1111,7777,8888],444,555,666,777],89,23,34]]
+
+
+Extract below values: 
+5
+56
+222
+50000
+put
+5555
+7777
+666
+89
+on
+333
+3333
+
+Task5:
+
+#create a dictionary
+#{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
+
+Task6:
+Get two strings from user:
+
+string1: python
+String2: java
+
+output ===> jythonpava64hv (string2 first letter + string1 except first letter + string1 first letter + string2 except first letter + len of str1 + len of string2 )
+
+Task7:
+
+Get two strings from user
+
+string1:  master
+string2:  python
+
+Output:  mason  (Concatenation of first part of string1 + second part od string 2)
+
+string1: encyclopedia
+string2: social
+
+output: encyclal
+
+Task8:
+
+Get two strings from user  example: "java" "groovy"
+   java6groovy4
+   
+   "pi" "mathematics"  ===> pi15mahematics2
+   
+Task9:
+
+Get two values (input) ===> number, string
+
+#7 , "python" ===> pythonpythonpythonpythonpythonpythonpython777777
+
+#3 , "perl"   ===> perlperlperl3333
+
+
+Task10:
+
+#get two strings from user  computer science  ==> input 
+
+#step 1 ==> comPuter  sciEnce
+
+#step 2 ===> concatenate both ==> comPutersciEnce
+
+#step 3 ===> comPuteRsciEnce
+
+  
+  
+
