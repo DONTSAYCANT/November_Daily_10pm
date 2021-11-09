@@ -1,1 +1,20 @@
+Task1:
 
+Get two strings from user,
+
+string1: wikipedia
+string2: typescript
+
+Identify middle chars of both strings
+
+output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
+
+
+Task2:
+
+Task3:
+
+int1: 123
+int2: 456
+
+output: 123456579 
