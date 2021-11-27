@@ -1,4 +1,4 @@
-#Basic 
+#Basic (completed)
 
 python programming basic Fine
 Data types
@@ -11,14 +11,14 @@ Functions inbuilt funtions User functions other
 
 #Mid level
 
-Anonymous function list comprehension
-Exception handline
-Modules/Libraries inbuilt modules/User def
+Anonymous function list comprehension (Done)
+Exception handline (Done)
+Modules/Libraries inbuilt modules/User def (Done)
 Collecions 
 data time 
 os and sys
 re regular expression
-File handline
+File handling
 
 
 #Advanced 
